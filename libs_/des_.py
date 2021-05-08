@@ -100,45 +100,6 @@ Shift_Table = [1, 1, 2, 2,
                2, 2, 2, 1]
 
 
-# def hex_to_bin(text_hex):
-#     text_bin = ""
-#     for i in text_hex:
-#         bi = bin(int(i, 16))[2:]
-#         k = 4 - len(bi)
-#         s = ""
-#         for g in range(k):
-#             s = s + "0"
-#         bi = s + bi
-#         text_bin = text_bin + bi
-#     return text_bin
-#
-#
-# def bin_to_hex(text_bin):
-#     l = len(text_bin)
-#     text_hex_ = ""
-#     for i in range(4, l + 1, 4):
-#         text_hex_ = text_hex_ + hex(int(text_bin[i - 4:i], 2))[2:]
-#     return text_hex_
-#
-#
-# def encrypt(plaintext, key="133457799BBCDFF1"):
-#     ciphertext = plaintext
-#     return ciphertext
-#
-#
-# def decrypt(ciphertext_, key="133457799BBCDFF1"):
-#     """
-# 	ciphertext is bitstring of length 64
-# 	key is also bitstring of length 64
-# 	plaintext is also bit string of length 64
-# 	"""
-#     # ciphertext = hex_to_bin(ciphertext_)
-#     # K = hex_to_bin(key)
-#
-#     plaintext = ciphertext_
-#     return plaintext
-
-
 def hex_to_bin(text_hex):
     text_bin = ""
     for i in text_hex:

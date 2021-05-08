@@ -75,32 +75,9 @@ class Block():
         return dict_
 
 
-
     def __str__(self):
         k = self.to_dict()
         return str(k)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     def verify_block(self):
