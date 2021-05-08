@@ -1,0 +1,11 @@
+{
+    "0":{
+        "amount":"d8781fb04d834bea",
+        "asset":"ed6748e37680cb1c",
+        "digital_signature":"5942223476e2a2630c3950b29c4b03243f8fe1127f1b21446a8de7daf27dd4fe81ffd53ffe1288519f8facfee4d153d8f16681dff469dface5839f8eacd1dfda19a744adcbf9f92a1fcb190eb5c0911c04fedd18c72acaac6dc23714769705f449070772cafe7b8ebd6963147b048adf662066fc814259d60302f14508c6ee57",
+        "time":1618658940.7915520668,
+        "type_of_txn":"60600247374eb02d",
+        "user_name":"user8",
+        "user_object":null
+    }
+}
